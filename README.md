@@ -28,8 +28,8 @@ INSTALLATION
 
 CONFIGURATION
 -------------
-2 gold rocks. 
+2 gold rocks.
 
 TROUBLESHOOTING
 ---------------
-At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus.
+Freak out
